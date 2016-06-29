@@ -4,4 +4,4 @@ In this project we use AJAX and the [Random User API](https://randomuser.me/) to
 
 [Example](https://github.com/agentkenny007/Random-Users/blob/master/mockup.jpg)
 [Animate Example](https://github.com/agentkenny007/Random-Users/blob/master/mockup.gif)
-[See it live](tiy-ikennaugwuh-random-users.surge.sh)
+[See it live](http://tiy-ikennaugwuh-random-users.surge.sh)
