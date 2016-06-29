@@ -3,6 +3,7 @@ import $ from 'jquery';
 var user = $('<li class="user">'), users = $('.random-users');
 var listUsers = function(data){
     console.log(data);
+    $('h4').remove();
     data.results.forEach(function(result){
         var u = user.clone();
         u.append(`
