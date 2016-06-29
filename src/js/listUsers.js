@@ -9,7 +9,7 @@ var listUsers = function(data){
         u.append(`
             <img src="${result.picture.large}">
             <span class="name">${result.name.first} ${result.name.last}</span>
-            <span class="email">${result.email}</span>
+            <span class="email" title="${result.email}">${result.email}</span>
             <span class="street-address">
                 ${result.location.street}<br>
                 ${result.location.city}, ${result.location.state}, ${result.location.postcode}
